@@ -32,12 +32,13 @@ Black Ops: Reimagined-*Expanded* Zombies is a mod designed to enhance the gamepl
 Added double Pack-a-Punch for *most* guns in Black Ops Zombies. Wonder weapons and Wall weapons are exceptions, see the **blacklist** below. **Double Pack-a-Punch'ed** weapons have the following bonuses:
 
 
-  - Flat 4x damage increase from their single upgraded version
+  - Flat 4x damage increase to Double Pack-a-Punched Weapons from their single upgraded version
   - One of four bullet effects:
       - Hellfire - Sets a zombie on fire; it dies after 2 seconds. Zombies killed by Hellfire drop Hellfire on the ground that affect other zombies
       - Sheercold - Slows zombies within a close range to the player. Emits a frost effect.
       - Eletrify - Bullets shock zombies, instantly killing them and nearby enemies
       - Extra damage - An additional 20% boost to damage, or additional headshot multiplier.
+  - Wall Guns: 3x damage increase no special Ammo Type
    
     &nbsp;
    
@@ -47,7 +48,7 @@ Added double Pack-a-Punch for *most* guns in Black Ops Zombies. Wonder weapons a
     - PPSh
     - RPK
     - AK47
-    - Rottweil72 (Olympia, _once PaP_)
+    - Rottweil72 (Olympia, _Once Single PaP_)
     
     </details>
     
@@ -124,81 +125,77 @@ Added double Pack-a-Punch for *most* guns in Black Ops Zombies. Wonder weapons a
   
 ![Buy_Deadshot](https://github.com/jhw2167/BO1-Reimagined-expanded/assets/54991158/88977b8f-b154-4432-b4e8-561aeef1be62)
 
-  **Juggernog:**
-  - Perk is permanent
-  - Player Max Health set to 325
-  
-  **Quick Revive:**
-  - Perk is permanent
-  - Players you revive receive Zombie Blood for 10 seconds
-  - Larger revive radius
-  - Points are not lost while a player with Quick Revive Pro is near a downed player (**Apocalypes mode only**)
-  
-  **Speed Cola:**
-  - Perk is permanent
-  - Magic reload
-    - After 2.0 seconds, any gun not currently equipped is reloaded automagically
-    - Send pulse when reloading that slows time around you (**Not Implemented with Alpha Release**)
-  - Drinking perks is extremely fast (**Not Implemented with Alpha Release**)
-  - Melee animation is extremely fast (**Not Implemented with Alpha Release**)
-  
-  **Double Tap:**
-  - Perk is permanent
-  - Provides bullet penetration of up to 6 zombies
-  - Increases effectiveness of Double PaP Weapon Effects
-  
-  **Stamina:**
-  - Perk is permanent
-  - Further speed increase
-  - Melee attacks deal double damage
-  - When you melee (or you are damaged) **_then_ sprint**, enter a ghost mode for 3 seconds allowing you to run through zombies (**10s cooldown**)
+**Juggernog:**
+- Player Max Health set to 325
+
+**Quick Revive:**
+- Players you revive receive Zombie Blood for 10 seconds
+- Larger revive radius
+- Points are not lost while a player with Quick Revive Pro is near a downed player (**Apocalypse mode only**)
+
+**Speed Cola:**
+- **Magic reload**: After 3.5 seconds, any gun not currently equipped is reloaded auto-_magically_
+- Drinking perks is extremely fast
+- Melee animation is extremely fast
+
+**Double Tap 2.0:**
+- All bullet weapons do 50% increased damage
+- All bullet weapons do 100% increased damage (**Pro Perk Only**)
+- Provides bullet penetration of up to 6 zombies (**Pro Perk Only**)
+- Increases effectiveness of Double PaP Weapon Effects (**Pro Perk Only**)
+
+**Stamina:**
+- Unlimited sprint
+- Further speed increase (**Pro Perk Only**)
+- Melee attacks deal double damage (**Pro Perk Only**)
+- When you melee **_then_ sprint**, enter a ghost mode for 3 seconds allowing you to run through zombies (**12s cooldown**)
 
 ![Stamina_Up](https://github.com/jhw2167/BO1-Reimagined-expanded/assets/54991158/92686772-8e48-4903-b6bd-ac7c51dae313)
 
-  
-  **Phd:**
-  - Perk is permanent
-  - Larger splash area and damage with all explosive weapons and flop
-  - Longer lasting Hellfire
-  - Any dolphin dive will trigger PhD effects
-  - Closest zombies to PhD explosion are knocked down, hellfire is applied (**Not Implemented wtih Alpha Release**)
-  
-  **Deadshot:**
-  - Perk is permanent
-  - Base 1.5 damage increase when ADS on bullet weapons
-  - Hitmarkers on hitting zombies
-  - Each successive headshot or weak point hit gives your next shot an additional 5% damage, stackable
-  - Red hitmarker on hitting zombie weak spot (**Not Implemented with Alpha Release**)
-  - HUD showcases current streak (**Not Implemented with Alpha Release**)
-  
-  **Mule Kick:**
-  - Perk is permanent
-  - 3rd weapon permanent as perk is never lost
-  - Give player max ammo on purchase
-  
-**Electric Cherry (Not Implemented with Alpha Release):**
+**Phd 2.0:**
+- Explosions deal double damage to zombies
+- Killing zombies with explosive weapons or equipment gives bonus points
+- Larger splash area and damage with all explosive weapons and flop (**Pro Perk Only**)
+- Longer lasting Hellfire (**Pro Perk Only**)
+- Any dolphin dive will trigger PhD explosion (**Pro Perk Only**)
+- Zombies near your PhD flop are knocked down (**Pro Perk Only**)
+
+**Deadshot 2.0:**
+- 100% damage increase to headshots
+- Additional 50% damage increase when ADS on bullet weapons (**Pro Perk Only**)
+- Hitmarkers on hitting zombies (**Pro Perk Only**)
+- Each successive headshot gives your next shot an additional 5% damage, stackable (**Pro Perk Only**)
+
+**Mule Kick:**
+- 3rd weapon permanent as perk is never lost
+- Rewards player max ammo on purchase
+- **Superpower** drop rewards player a **Restock** as well
+
+**Electric Cherry 2.0:**
 - Reloading your weapon emits an electric shock that stuns and damages nearby zombies
-- "Widows Wine" ability will effectively be moved to Eletric Cherry **Pro** (electricity FX instead of webs); applies when a zombie hits you, 10s cooldown, small radius (**Pro Perk Only**)
-- Electric pulse effect on reload is always full charge (**Pro Perk Only**)
+- When a zombie hits you, you take no damage and Cherry will trigger, 10s cooldown (**Pro Perk Only**)
+- Cherry Shock is stronger (**Pro Perk Only**)
+- Cherry Shock may stun up to 12 enemies (**Pro Perk Only**)
 
-**Vulture Aid 2.0 (Not Implemented with Alpha Release):**
+**Vulture Aid 2.0:**
 - Visualize all perks and drops on the map
-- Visual indicator of all bosses on the map - or monkeys
+- Visual indicator of all bosses on the map - or mini bosses like monkeys
 - Visual indicator of the last few zombies remaining on the map
-- Button to disable HUD display elements
-- Knifing zombies gives bonus points
+- Press ADS + melee to disable vulture waypoints for perks and weapons and keep hud clean
+- Knifing zombies rewards additional points
 - Zombies ignore you for the first 10 seconds every round (**Pro Perk Only**)
-- Drops you pick up last longer (**Pro Perk Only**)
+- Drops you pick up last longer or retrigger (**Pro Perk Only**)
 - Zombies with drops glow (**Pro Perk Only**)
-- See zombies' glowing eyes through walls and around corners (**Pro Perk Only**)
+- Ammo drops reward more rounds (**Pro Perk Only**)
 
-**Widows Wine 2.0 (Not Implemented with Alpha Release):**
+**Widows Wine 2.0:**
 - HUD effect notifies when a zombie is behind you
-- Bullets poison zombies and do Damage Over Time, reduce them to half health over 5 seconds
-  - only applies to zombies with at least half health remaining
-- Given web grenades that stop zombies and regenerate over time, act as claymores/static semtex (**Pro Perk Only**)
-- Poison reduces to 1/4 health over 10 seconds (keep zombies alive longer) (**Pro Perk Only**)
-
+- Zombies that strike you are slowed; you take no damage and lose a grenade (Classic Mode Only)
+- Bullets poison zombies, reducing them to half health over 8 seconds (Reimagined Only)
+- Classic Widows Wine effect moved to Electric Cherry Pro (Reimagined Only)
+- Replaces special grenade with Web Grenades that will slow all zombies in moderate radius (**Pro Perk Only**)
+- Rewarded one additional special grenade per round (**Pro Perk Only**)
+- Poison reduces to 1/3 health over 15 seconds (**Pro Perk Only**)
 &nbsp;
 
 ### Push Mechanics - Zombie Knockdown
