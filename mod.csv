@@ -267,7 +267,6 @@ rawfile,character\c_usa_marine4_dlc5.gsc
 localize,reimagined
 
 //IGNORE FILES THAT ARE ALREADY LOADED IN THE BASE GAME
-ignore,ignorefiles
 
 // WEAPONS
 weapon,sp/ak47_ft_upgraded_zm
@@ -1474,3 +1473,6 @@ image,uie_t7_zm_hud_ammo_icon_pes2
 image,zom_icon_minigun
 image,~-gx2_icon_c
 image,~x2_icon_s-r&$white-r&$black-~ecfa3406
+
+xmodel,t5_weapon_ak47_viewmodel
+xmodel,t5_weapon_ak47_world
