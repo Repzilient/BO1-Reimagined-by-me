@@ -468,6 +468,8 @@ weapon,sp/zombie_type100_smg_upgraded
 weapon,sp/zombie_type99_rifle
 
 // XMODELS
+xmodel,t5_weapon_ak47_viewmodel
+xmodel,t5_weapon_ak47_world
 xmodel,bo1_t5_weapon_dw_sickle_world
 xmodel,bo2_c_zom_hazmat_viewhands
 xmodel,bo2_c_zom_player_cdc_fb
